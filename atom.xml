@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yijiajun.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-03T12:11:48.182Z</updated>
+    <updated>2020-08-03T12:20:30.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yijiajun.github.io"/>
     <link rel="self" href="https://yijiajun.github.io/atom.xml"/>
@@ -10,13 +10,4 @@
     <logo>https://yijiajun.github.io/images/avatar.png</logo>
     <icon>https://yijiajun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[aaa]]></title>
-        <id>https://yijiajun.github.io/post/aaa/</id>
-        <link href="https://yijiajun.github.io/post/aaa/">
-        </link>
-        <updated>2020-08-03T12:09:45.000Z</updated>
-        <content type="html"><![CDATA[<p>那么信用卡绑定的微信和支付宝消费和直接刷卡支付有什么区别呢?其实答案很简单，因为信用卡持卡人在网上消费银行无钱可赚，信用卡线下消费银行从商户收取的手续费0.6%，而网上消费银行能够收取的手续费却只有0.38%，除去付给第三方支付平台和通道的费用，银行根本无利可图。银行发行信用卡的目的就是为了赚钱，即使你网上消费的再多无法让银行赚到钱。另外一点也容易被大家忽视，我们在线下商家消费，如果信用卡是绑定支付宝或者微信等第三方平台进行支付，那么手续费也是只有0.38%，银行同样是赚不到钱，同样也是无法提升持卡人对银行的贡献度。</p>
-]]></content>
-    </entry>
 </feed>
